@@ -102,7 +102,7 @@ int main()
            	printf("\nel resultado del factorial es %.d \n",resultado1);
           	break;
        	case 8:
-//                all_operations();
+               all_operations();
            break;
         default:
         	printf("La opcion ingresa no es una opcion valida del menu \n" );
